@@ -2,6 +2,7 @@
 #From https://nodejs.org/en/download
 # Download and install nvm:
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+#To use npm and node later on, remember to use source ~./bashrc
 
 # in lieu of restarting the shell
 export NVM_DIR="$HOME/.config/nvm"
